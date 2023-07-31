@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevedantverma&label=Profile%20views&color=0e75b6&style=flat" alt="thevedantverma" /> </p>
 
-- 🔭 I’m currently working on Machine Learning **MNIST**
+- 🔭 I’m currently working on Machine Learning
 
 - 🌱 I’m currently learning **Tensorflow, Neural Network, DevOps**
 
