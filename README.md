@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Machine Learning
 
-- 🌱 I’m currently learning **Tensorflow, Neural Network, DevOps**
+- 🌱 I’m currently learning **Tensorflow**
 
 - 🤝 I’m looking for help with **Neural Networks**
 
