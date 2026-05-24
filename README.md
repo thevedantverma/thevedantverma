@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **thevedantverma@gmail.com**
 
-- ⚡ Fun fact **Wanna grab some cheese burger and brainstrom?? I Love that.**
+- ⚡ Fun fact **Wanna grab a cheese burger and brainstrom?? I Love that.**
 
 <h3 align="left">Connect with me:</h3>
 
